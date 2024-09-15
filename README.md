@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI/UX development with flutter and DSA<br>Working with Python, C<br>Learning Machine Learning in Python using Sci-kit Learn and PyTorch<br>Web-development with HTML, CSS, JavaScript and JQuery
+Working with Python, C<br>Learning Machine Learning in Python using Sci-kit Learn and PyTorch<br>UI/UX development with Flutter<br>Web-development with HTML, CSS, JavaScript and JQuery
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eboydakshlal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daksh.lal.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daksh._.lal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-xyz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/daksh-xyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/daksh_xyz) 
